@@ -7,5 +7,5 @@ Here is some simple shapes of:
 1-shapes : (diamond - empty diamond - sand clock - empty sand clock - sqaure - empty square )
 2-characters : (A - F - E - Z)
 3- NUMBERS : (6 - 8 - 9 )
-the repo link :
+the repo link : https://github.com/HEGAZYI/shapes-in-java
 Enjoy coding
